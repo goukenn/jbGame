@@ -1,0 +1,27 @@
+<!--This is a gkds DrSStudio file 8.7.d-->
+<!--Charles A.D. BONDJE DOUE-->
+<!--igkdev © 2008-2013-->
+<gkds>
+  <Project>
+    <SurfaceType>2DDrawingSurface</SurfaceType>
+    <FileName>border_doc.gkds</FileName>
+    <Resources>
+      <String Id="app_title"></String>
+    </Resources>
+  </Project>
+  <Documents>
+    <LayerDocument Id="LayerDocument_6976169" FillBrush="Type:Solid;Colors:#FFFF;" Width="700">
+      <Layer Id="Layer_4838846">
+        <Rectangle Bound="0;-1.192093E-06;138;300" StrokeBrush="Type:Solid;Colors:#0000;" FillBrush="Type:Solid;Colors:#FF72C45A;" Id="Rectangle_56249444" />
+      </Layer>
+      <Layer Id="Layer_30704555">
+        <Rectangle Bound="11;10.99998;677;280.0001" StrokeBrush="Type:Solid;Colors:#0000;" FillBrush="Type:Solid;Colors:#61000000;" Id="Rectangle_61213974" />
+      </Layer>
+      <Layer Id="Layer_42426959">
+        <Anchor Id="Anchor_65764669">
+          <Circle Center="209;67" Radius="35.38361" Matrix="1;0;0;0.6891216;0;9.82885" Id="Circle_47578065" Anchor.Location="0;0" />
+        </Anchor>
+      </Layer>
+    </LayerDocument>
+  </Documents>
+</gkds>

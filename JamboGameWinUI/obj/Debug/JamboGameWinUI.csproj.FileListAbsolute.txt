@@ -1,0 +1,8 @@
+D:\DEV\App\JamboGameWinUI\bin\Debug\JamboGameWinUI.exe.config
+D:\DEV\App\JamboGameWinUI\obj\Debug\JamboGameWinUI.csprojResolveAssemblyReference.cache
+D:\DEV\App\JamboGameWinUI\bin\Debug\JamboGameWinUI.exe
+D:\DEV\App\JamboGameWinUI\bin\Debug\JamboGameWinUI.pdb
+D:\DEV\App\JamboGameWinUI\bin\Debug\JamboGameLib.dll
+D:\DEV\App\JamboGameWinUI\bin\Debug\JamboGameLib.pdb
+D:\DEV\App\JamboGameWinUI\obj\Debug\JamboGameWinUI.exe
+D:\DEV\App\JamboGameWinUI\obj\Debug\JamboGameWinUI.pdb

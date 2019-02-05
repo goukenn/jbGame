@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<jgdb>
+  <profile>
+    <Pwd>admin</Pwd>
+    <Login>test1@jgdb.com</Login>
+    <Balance>170</Balance>
+  </profile>
+  <profile>
+    <Pwd>admin</Pwd>
+    <Login>test2@jgdb.com</Login>
+    <Balance>90</Balance>
+  </profile>
+</jgdb>

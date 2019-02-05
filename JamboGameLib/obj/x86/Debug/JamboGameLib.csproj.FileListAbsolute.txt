@@ -1,0 +1,10 @@
+D:\DEV\App\JamboGameLib\bin\x86\Debug\JamboGameLib.dll
+D:\DEV\App\JamboGameLib\bin\x86\Debug\JamboGameLib.pdb
+D:\DEV\App\JamboGameLib\obj\x86\Debug\JamboGameLib.dll
+D:\DEV\App\JamboGameLib\obj\x86\Debug\JamboGameLib.pdb
+D:\DEV\App\JamboGameLib\obj\x86\Debug\JamboGameLib.csprojResolveAssemblyReference.cache
+D:\dev\jamboGame\JamboGameLib\bin\x86\Debug\JamboGameLib.dll
+D:\dev\jamboGame\JamboGameLib\bin\x86\Debug\JamboGameLib.pdb
+D:\dev\jamboGame\JamboGameLib\obj\x86\Debug\JamboGameLib.csprojResolveAssemblyReference.cache
+D:\dev\jamboGame\JamboGameLib\obj\x86\Debug\JamboGameLib.dll
+D:\dev\jamboGame\JamboGameLib\obj\x86\Debug\JamboGameLib.pdb

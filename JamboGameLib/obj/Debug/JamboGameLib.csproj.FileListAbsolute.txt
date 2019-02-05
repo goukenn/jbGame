@@ -1,0 +1,5 @@
+D:\DEV\App\JamboGameLib\obj\Debug\JamboGameLib.csprojResolveAssemblyReference.cache
+D:\DEV\App\JamboGameLib\bin\Debug\JamboGameLib.dll
+D:\DEV\App\JamboGameLib\bin\Debug\JamboGameLib.pdb
+D:\DEV\App\JamboGameLib\obj\Debug\JamboGameLib.dll
+D:\DEV\App\JamboGameLib\obj\Debug\JamboGameLib.pdb

@@ -1,0 +1,12 @@
+﻿<Canvas Background="#FFFFFFFF" Width="400" Height="300" Focusable="True" InputMethod.IsInputMethodEnabled="True" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+    <Canvas InputMethod.IsInputMethodEnabled="True">
+        <Polygon Points="305.131887516398,91.7829675385926 300.098996503224,49.8584211361836 224.96710544868,31.075454765629 154.868109199484,54.2170357455267 159.901007542978,96.1415819279409 235.032901881641,114.924545014376" FillRule="EvenOdd" Fill="#FF000000" Stroke="#FF000000" StrokeThickness="1" StrokeStartLineCap="Flat" StrokeLineJoin="Miter" InputMethod.IsInputMethodEnabled="True" />
+        <Polyline Points="159,178 432,410" Fill="#FF000000" Stroke="#FF000000" StrokeThickness="1" StrokeStartLineCap="Flat" StrokeLineJoin="Miter" />
+        <Rectangle RadiusX="0" RadiusY="0" Fill="#FF000000" Stroke="#FF000000" StrokeThickness="1" StrokeStartLineCap="Flat" StrokeLineJoin="Miter" Width="143" Height="131" Canvas.Left="70" Canvas.Top="158" />
+        <Rectangle RadiusX="0" RadiusY="0" Fill="#FF000000" Stroke="#FF000000" StrokeThickness="1" StrokeStartLineCap="Flat" StrokeLineJoin="Miter" Width="83" Height="84" Canvas.Left="283" Canvas.Top="139" />
+        <Menu Width="373" Height="63" Canvas.Left="31" Canvas.Top="24" />
+        <TextBox Width="339" Height="55" Canvas.Left="155" Canvas.Top="189" xml:space="preserve"></TextBox>
+        <RadioButton Width="77" Height="25" Canvas.Left="25" Canvas.Top="147" />
+        <ListBox Width="119" Height="41" Canvas.Left="274" Canvas.Top="131" />
+    </Canvas>
+</Canvas>
